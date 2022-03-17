@@ -14,5 +14,16 @@
 
 .centratura{
     text-align: center;
+    margin-top: 2%;
 }
 
+.ridimensionamento{
+    width: 15%;
+    height: auto;
+    margin-left: 1%;
+    margin-top: 2%;
+}
+
+.remove-block{
+    display: inline;
+}
