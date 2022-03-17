@@ -18,12 +18,9 @@
 }
 
 .ridimensionamento{
-    width: 15%;
+    width: 100%;
     height: auto;
     margin-left: 1%;
     margin-top: 2%;
-}
-
-.remove-block{
-    display: inline;
+    margin-bottom: 4%;
 }
