@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+
+/*Inizio colorazioni dei testi*/
+.verde{
+    color: green;
+}
+
+.grigio{
+    color: gray;
+}
+/*Fine colorazioni dei testi*/
+
+.centratura{
+    text-align: center;
+}
